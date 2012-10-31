@@ -1,0 +1,3 @@
+[submodule "hspec"]
+	path = hspec
+	url = git://github.com/hspec/hspec.git
